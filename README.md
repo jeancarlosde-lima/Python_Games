@@ -1,6 +1,6 @@
 # Python_Games
 **************
-Curso de Python: começando com a linguagem (Alura)
+## ***Curso de Python: começando com a linguagem (Alura)***
 **************************************************
 Segue o cronograma estudado:
 
