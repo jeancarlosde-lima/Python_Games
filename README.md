@@ -1,7 +1,7 @@
 # Python_Games
 **************
 Curso de Python: começando com a linguagem (Alura)
-############################################
+########################################
 Segue o cronograma estudado:
 
 - Aprendendo o Python 3 na prática
